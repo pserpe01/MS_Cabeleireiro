@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\MS_Cabeleireiro.props" />
-</Project>
